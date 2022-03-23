@@ -31,7 +31,7 @@ int menuUtama()
     do
     {
         cout << "+============================================+" << endl;
-        cout << "+======= 2B - Suci Wulandari -  ======+" << endl;
+        cout << "+======= 2B - Siti Suci Wulandari - 2103702-  ======+" << endl;
         cout << "+============= Menu Linked List =============+" << endl;
         cout << "+============================================+" << endl;
         cout << "1. Insert Awal" << endl;
